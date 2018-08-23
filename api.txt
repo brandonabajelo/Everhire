@@ -1,0 +1,7 @@
+https://127.0.0.1:8000/api/v1/users/ -- shows list of all registered users
+https://127.0.0.1:8000/api/v1/rest-auth/login/ -- login user
+https://127.0.0.1:8000/api/v1/rest-auth/logout/ -- logout user
+https://127.0.0.1:8000/api/v1/rest-auth/registration/ -- register new user
+http://127.0.0.1:8000/api/v1/jobs/view_jobs/ -- viewing all jobs
+
+  
